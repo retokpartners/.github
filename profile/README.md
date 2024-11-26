@@ -1,7 +1,3 @@
-Here’s a **README.md** file for the HomeStake GitHub organization profile:
-
----
-
 # Welcome to HomeStake 👋  
 
 **Empowering Aspiring Developers to Build Their Real Estate Empire**  
